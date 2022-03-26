@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "781942395185",
+    "project_id": "flash-chat-75954",
+    "storage_bucket": "flash-chat-75954.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781942395185:android:576078d7c3de9eea3a2010",
+        "android_client_info": {
+          "package_name": "com.vitorzyt.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781942395185-ou6esguiqni9g6l0ddtfi4ksndv5bm1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOPQyMXIJxMr-th-aOWCKWv06BxFMqfQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781942395185-ou6esguiqni9g6l0ddtfi4ksndv5bm1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
